@@ -1,4 +1,4 @@
-# sc-ff
+# MuSCL: Multistate Stratum Corneum Lipid force field
 A coarse-grained force field derived using the multi-state iterative Boltzmann inversion method (MSIBI) for simulating stratum corneum lipids .
 
 ##  Files
