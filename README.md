@@ -1,4 +1,4 @@
-# MuSCL: Multistate Stratum Corneum Lipid force field
+# MuSCL: Multistate Stratum Corneum Lipid Force Field
 A coarse-grained (CG) force field derived using the multi-state iterative Boltzmann inversion method (MSIBI) [1] for simulating stratum corneum lipids. Provided in this repository are bonded parameters for CER [2], FFA [2], and CHOL [3], as well as non-bonded parameters for water taken from Moore et al. (2016) [4], CER NS and FFA self interactions from Moore et al. (2016) [2], CER NS and FFA cross-interactions from Moore et al. (2018) [5], and CHOL self- and cross-interactions with CER NS and FFA from Shamaprasad et al. (2021) [3]. 
 
 ##  Files
